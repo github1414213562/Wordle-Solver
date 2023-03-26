@@ -1,0 +1,1 @@
+g++ solver.cpp test_avgTries.cpp -o tester

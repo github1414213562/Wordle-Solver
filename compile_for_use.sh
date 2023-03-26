@@ -1,0 +1,1 @@
+g++ solver.cpp functions_for_use.cpp -o solver
